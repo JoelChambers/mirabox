@@ -1,0 +1,1 @@
+Mirabox is the latest Globalscale development kit built upon Marvell’s new Armada 370 SOC chipset. Equipped with an ARM v7 compliant architecture, floating point, and power saving sleep mode, the new Mirabox delivers world class computing power and efficiency in a sleek and small form factor.
